@@ -1,14 +1,14 @@
-# Modern UI-UX GPT3
+# GPT3 Modern UI-UX
 
 ## Descripción
 
-Código base de la Interfaz Moderna de la IA GPT-3 hecha en React.js.
+Código base de la Interfaz de la IA GPT-3 hecha en React.js.
 
 ---
 
 ## Vista En Versión Desktop
 
-![Vista_En_Versión_Desktop](src/assets/design/desktop-preview.jpg)
+![Vista_En_Versión_Desktop](src/assets/design/desktop-design.jpg)
 
 ## Vista En Versión Mobile
 
@@ -18,7 +18,7 @@ Código base de la Interfaz Moderna de la IA GPT-3 hecha en React.js.
 
 ## Enlace A La Aplicación
 
-- [GPT-3](https://axe10rellanamodern-ui-ux-gpt3.netlify.app/)
+- [GPT-3](https://gpt3-modern-ui-ux-web-page.netlify.app/)
 
 ---
 
